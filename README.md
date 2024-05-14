@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwxmxb&show_owner=github-readme-stats)](https://github.com/fxazkwxm/dokploy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwxmxb&repo=github-readme-stats)]
+
+(https://github.com/fxazkwxm/dokploy)
