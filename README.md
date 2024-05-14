@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github-readme-stats-lxj01ukaz-wzry2580s-projects.vercel.app/api?username=kwxmxb&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kwxmxb&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true"/>
