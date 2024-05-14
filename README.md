@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwxmxb)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats-lxj01ukaz-wzry2580s-projects.vercel.app/api?username=kwxmxb&count_private=true)
